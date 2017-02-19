@@ -1,12 +1,27 @@
 {
   "title": "User Requirements",
+  "articles":
+    [
+      {
+        "title": "The New User Story Backlog is a Map",
+        "summary": "Why the flat user story backlog doesn’t work, and how to build a better backlog that will help you more effectively explain your system, prioritize, and plan your releases",
+        "link": "http://jpattonassociates.com/the-new-backlog/"
+      },
+      {
+        "title": "Designing features using Job Stories",
+        "summary": "Personas and User Stories made sense when customers and product teams were far from each other. That’s no longer the case.",
+        "link": "https://blog.intercom.com/using-job-stories-design-features-ui-ux/"
+      }
+    ],
   "tools":
     [
       {
-        "title": "tool 1"
+        "title": "StoriesOnBoard",
+        "link": "http://storiesonboard.com/",
       },
       {
-        "title": "tool 2"
+        "title": "Trello",
+        "link": "https://trello.com/",
       }
     ]
 }

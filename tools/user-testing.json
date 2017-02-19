@@ -1,0 +1,27 @@
+{
+  "title": "User Testing",
+  "articles":
+    [
+      {
+        "title": "Handbook of Usability Testing: How to Plan, Design, and Conduct Effective Tests",
+        "summary": "This fully revised handbook provides clear, step-by-step guidelines to help you test your product for usability. Completely updated with current industry best practices, it can give you that all-important marketplace advantage: products that perform the way users expect.",
+        "link": "http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0470185481.html"
+      },
+      {
+        "title": "Designing features using Job Stories",
+        "summary": "Personas and User Stories made sense when customers and product teams were far from each other. That’s no longer the case.",
+        "link": "https://blog.intercom.com/using-job-stories-design-features-ui-ux/"
+      }
+    ],
+  "tools":
+    [
+      {
+        "title": "Silverback App",
+        "link": "http://silverbackapp.com/"
+      },
+      {
+        "name": "Lookback",
+        "link": "https://lookback.io/",
+      }
+    ]
+}
