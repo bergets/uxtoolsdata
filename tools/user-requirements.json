@@ -1,8 +1,12 @@
-[
-  {
-    "title": "tool 1"
-  },
-  {
-    "title": "tool 2"
-  }
-]
+{
+  "title": "User Requirements",
+  "tools":
+    [
+      {
+        "title": "tool 1"
+      },
+      {
+        "title": "tool 2"
+      }
+    ]
+}
