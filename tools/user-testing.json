@@ -1,8 +1,12 @@
 {
   "title": "User Testing",
   "color": "#D9E3CD",
-  "articles":
+  "content":
     [
+    {
+    "header": "Articles",
+    "type": "summary",
+    "list": [
       {
         "title": "Handbook of Usability Testing: How to Plan, Design, and Conduct Effective Tests",
         "summary": "This fully revised handbook provides clear, step-by-step guidelines to help you test your product for usability. Completely updated with current industry best practices, it can give you that all-important marketplace advantage: products that perform the way users expect.",
@@ -13,16 +17,21 @@
         "summary": "Simple usability tests where users think out loud are cheap, robust, flexible, and easy to learn. Thinking aloud should be the first tool in your UX toolbox, even though it entails some risks and doesn't solve all problems.",
         "link": "https://www.nngroup.com/articles/thinking-aloud-the-1-usability-tool/"
       }
-    ],
-  "tools":
-    [
-      {
-        "title": "Silverback App",
-        "link": "http://silverbackapp.com/"
-      },
-      {
-        "title": "Lookback",
-        "link": "https://lookback.io/"
-      }
+      ]
+    },
+    {
+      "header": "Tools",
+      "type": "link",
+      "list": [
+        {
+          "title": "Silverback App",
+          "link": "http://silverbackapp.com/"
+        },
+        {
+          "title": "Lookback",
+          "link": "https://lookback.io/"
+        }
+      ]
+    }
     ]
 }
