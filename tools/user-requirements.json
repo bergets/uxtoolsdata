@@ -10,17 +10,14 @@
       {
       "title": "The New User Story Backlog is a Map",
       "summary": "Why the flat user story backlog doesn’t work, and how to build a better backlog that will help you more effectively explain your system, prioritize, and plan your releases",
-      "link": "http://jpattonassociates.com/the-new-backlog/"
-      },
-      {
-        "title": "The New User Story Backlog is a Map",
-        "summary": "Why the flat user story backlog doesn’t work, and how to build a better backlog that will help you more effectively explain your system, prioritize, and plan your releases",
-        "link": "http://jpattonassociates.com/the-new-backlog/"
+      "link": "http://jpattonassociates.com/the-new-backlog/",
+      "person": "Jeff Patton"
       },
       {
         "title": "Designing features using Job Stories",
         "summary": "Personas and User Stories made sense when customers and product teams were far from each other. That’s no longer the case.",
-        "link": "https://blog.intercom.com/using-job-stories-design-features-ui-ux/"
+        "link": "https://blog.intercom.com/using-job-stories-design-features-ui-ux/",
+        "person": "Alan Klement"
       }
       ]
     },

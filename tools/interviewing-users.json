@@ -1,0 +1,49 @@
+{
+  "title": "Interviewing Users",
+  "color": "#d7ecff",
+  "content":
+    [
+    {
+    "header": "Articles",
+    "type": "summary",
+    "list": [
+      {
+        "title": "Get better data from user studies: 16 interviewing tips",
+        "summary": "Great research interviews should be like listening to Terry Gross on Fresh Air — engaging and insightful. That’s what I aim for. Here are some tips and techniques that have helped me get the most out of user interviews.",
+        "link": "https://library.gv.com/get-better-data-from-user-studies-16-interviewing-tips-328d305c3e37#.au01ogiji",
+        "person": "Michael Margolis"
+      },
+      {
+        "title": "Building the right thing, for the right people by using customer interviews",
+        "summary": "The key to building a successful software company is solving a real problem for real people. Finding out who these people are and if they even have the problem you want to help solve is a crucial part of it. How useful is a product or business if its not solving a problem for anyone?",
+        "link": "https://medium.com/early-stage-startup-validation/building-the-right-thing-for-the-right-people-using-customer-interviews-f987113e89d7#.vb7abfwl0",
+        "person": "Scott McLeod"
+      }
+      ]
+    },
+    {
+    "header": "Books",
+    "type": "summary",
+    "list": [
+      {
+        "title": "Just Enough Research",
+        "summary": "Good research is about asking more and better questions, and thinking critically about the answers. It’s something every member of your team can and should do, and which everyone can learn, quickly. And done well, it will save you time and money by reducing unknowns and creating a solid foundation to build the right thing, in the most effective way.",
+        "link": "https://abookapart.com/products/just-enough-research",
+        "person": "Erika Hall"
+      }
+      ]
+    },
+    {
+      "header": "Talks",
+      "type": "summary",
+      "list": [
+        {
+          "title": "Interviewing Users: Uncovering Compelling Insights",
+          "summary": "This session will look at how to frame the research problem so it has the most impact on the team and their design. Steve Portigal will explore the importance of rapport-building, offer new listening techniques and review different types of questions and question types. He’ll also devote some time to discussing what type of participants to recruit and how to find them.",
+          "link": "https://vimeo.com/116968106",
+          "person": "Steve Portigal"
+        }
+      ]
+    }
+    ]
+}
