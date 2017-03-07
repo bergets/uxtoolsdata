@@ -1,14 +1,18 @@
 [
   {
+    "title": "Lean / Agile / Sprints",
+    "link": "lean-agile-sprints"
+  },
+  {
+    "title": "Interviewing Users",
+    "link": "interviewing-users"
+  },
+  {
     "title": "User Requirements",
     "link": "user-requirements"
   },
   {
     "title": "User Testing",
     "link": "user-testing"
-  },
-  {
-    "title": "Interviewing Users",
-    "link": "interviewing-users"
   }
 ]

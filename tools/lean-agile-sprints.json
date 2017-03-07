@@ -1,0 +1,49 @@
+{
+  "title": "Lean / Agile / Sprints",
+  "color": "#ffddea",
+  "content":
+    [
+    {
+    "header": "Articles",
+    "type": "summary",
+    "list": [
+      {
+        "title": "Beyond Lean and Agile",
+        "summary": "In large part that’s the nature of the beast.  People are always searching for a silver bullet, and there is always a willing industry, ready and waiting to serve with books, coaching, training, and consulting.  But of course there is no silver bullet, and inevitably people figure this out, and then the backlash comes.  As I write this, it’s in vogue to criticize both Lean and Agile.",
+        "link": "http://svpg.com/beyond-lean-and-agile/",
+        "person": "Marty Cagan"
+      },
+      {
+        "title": "The Right Way to Do Lean Research",
+        "summary": "Laura Klein expounds on these key themes of lean research.",
+        "link": "http://boxesandarrows.com/the-right-way-to-do-lean-research/",
+        "person": "Laura Klein"
+      },
+      {
+        "title": "The GV research sprint: a 4-day process for answering important startup questions",
+        "summary": "The founders and designers we work with in the Google Ventures portfolio have a lot of important questions. Is there a market for my product? Will my product help people solve their problems? What should I build? The answers to these questions just raise more questions: Do people understand my product? Will people find my product useful? Can people use my product? And so it continues. As we build our businesses, each answer reveals new unknowns.",
+        "link": "https://library.gv.com/the-gv-research-sprint-a-4-day-process-for-answering-important-startup-questions-97279b532b25#.y66csbafy",
+        "person": "Michael Margolis"
+      }
+      ]
+    },
+    {
+    "header": "Books",
+    "type": "summary",
+    "list": [
+      {
+        "title": "Lean UX - Applying Lean Principles to Improve User Experience",
+        "summary": "The Lean UX approach to interaction design is tailor-made for today’s web-driven reality. In this insightful book, leading advocate Jeff Gothelf teaches you valuable Lean UX principles, tactics, and techniques from the ground up—how to rapidly experiment with design ideas, validate them with real users, and continually adjust your design based on what you learn.",
+        "link": "http://shop.oreilly.com/product/0636920021827.do",
+        "person": "Jeff Gothelf"
+      },
+      {
+        "title": "UX for Lean Startups - Faster, Smarter User Experience Research and Design",
+        "summary": "Great user experiences (UX) are essential for products today, but designing one can be a lengthy and expensive process. With this practical, hands-on book, you’ll learn how to do it faster and smarter using Lean UX techniques.",
+        "link": "http://shop.oreilly.com/product/0636920026242.do",
+        "person": "Laura Klein"
+      }
+      ]
+    }
+    ]
+}
